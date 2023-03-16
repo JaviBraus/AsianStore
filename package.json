@@ -4,7 +4,8 @@
   "description": "Un proyecto con Bootstrap",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
   },
   "keywords": [
     "\u001b[A\u001b[A\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
@@ -13,6 +14,7 @@
   "author": "JaviBraus",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.2.3"
+    "bootstrap": "^5.2.3",
+    "lite-server": "^2.6.1"
   }
 }
